@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @IweZix (Luca)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning JS, Java, SQL, bash
+- 📫 How to reach me on discord
+        -> https://discord.io/IweZixCommunity
+        -> IweZix#0001
 
 <!---
 IweZix/IweZix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
