@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JS, Java, SQL, bash
 - 📫 How to reach me on discord
         -> https://discord.io/IweZixCommunity
-        -> IweZix#0001
+        -> IweZix#8370
         
 - 🔴 If problems arise after uses of my codes, I am in no way responsible because any current project is advised not to be used. Any finished and usable project will be reported in the readMe file of each repository.
 
