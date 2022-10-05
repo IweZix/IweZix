@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IweZix (Luca)
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning JS, Java, SQL, bash
+- 🌱 I’m currently learning JS, Java, SQL, HTML, CSS
 - 📫 How to reach me on discord
         -> https://discord.io/IweZixCommunity
         -> IweZix#8370
