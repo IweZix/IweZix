@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm IweZix (Luca)</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"> 
-        <img src="https://github-profile-trophy.vercel.app/?username=iwezix" alt="iwezix" />
-    </a> 
-</p>
+<h3 align="center">An IT student</h3>
 
 - 🔭 I’m currently working on [WezBot](https://github.com/IweZix/WezBot)
 
