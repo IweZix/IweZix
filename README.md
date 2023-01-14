@@ -2,7 +2,7 @@
     <img align="center" style="display: block; margin: 0 auto"   src="https://cdn.discordapp.com/attachments/925311173723815998/1063902030277652520/standard-2.gif">
 </div>
 <h1 align="center">Hi There, Welcome to my GitHub profile! </h1>
-<h3 align="center">I am IweZix, an IT student</h3>
+<h3 align="center">I am IweZix (Luca), an IT student</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iwezix&label=Profile%20views&color=0e75b6&style=flat" alt="iwezix" /> </p>
@@ -91,8 +91,10 @@
     </a>  
 </p>
 
-<p><img style="display: block; margin: 0 auto; margin-bottom: -20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=iwezix&show_icons=true&locale=en&layout=compact" alt="iwezix" /></p>
+<div align="center">
+    <p><img style="display: block; margin: 0 auto; margin-bottom: -20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=iwezix&show_icons=true&locale=en&layout=compact" alt="iwezix" /></p>
 
-<p>&nbsp;<img style="display: block; margin: 0 auto" src="https://github-readme-stats.vercel.app/api?username=iwezix&show_icons=true&locale=en" alt="iwezix" /></p>
+    <p>&nbsp;<img style="display: block; margin: 0 auto" src="https://github-readme-stats.vercel.app/api?username=iwezix&show_icons=true&locale=en" alt="iwezix" /></p>
 
-<p><img style="display: block; margin: 0 auto" src="https://github-readme-streak-stats.herokuapp.com/?user=iwezix&" alt="iwezix" /></p>
+    <p><img style="display: block; margin: 0 auto" src="https://github-readme-streak-stats.herokuapp.com/?user=iwezix&" alt="iwezix" /></p>
+</div>
