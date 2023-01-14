@@ -22,7 +22,7 @@
     <a href="https://codepen.io/iwezix" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iwezix" height="30" width="40" />
     </a>
-    <a href="https://stackoverflow.com/users/lucancl" target="blank">
+    <a href="https://stackoverflow.com/users/18544348/lucancl" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lucancl" height="30" width="40" />
     </a>
     <a href="https://instagram.com/luca_ncl" target="blank">
