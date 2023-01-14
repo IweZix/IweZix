@@ -1,11 +1,20 @@
+<!-- Banner -->
 <div align="center">
-    <img align="center" style="display: block; margin: 0 auto"   src="https://cdn.discordapp.com/attachments/925311173723815998/1063902030277652520/standard-2.gif">
+    <img align="center" style="display: block; margin: 0 auto" src="images/banner.gif">
 </div>
+
 <h1 align="center">Hi There, Welcome to my GitHub profile! </h1>
 <h3 align="center">I am IweZix (Luca), an IT student</h3>
 
+<!-- Profile views -->
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=iwezix&label=Profile%20views&color=0e75b6&style=flat" alt="iwezix" /> 
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iwezix&label=Profile%20views&color=0e75b6&style=flat" alt="iwezix" /> </p>
+<!-- Youtube button -->
+<a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCdICDxooRmBdQ_O0Od6WHLg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+</a> 
 
 - 🔭 I’m currently working on [WezBot](https://github.com/IweZix/WezBot)
 
@@ -17,6 +26,7 @@
 
 - 📫 How to reach me [discord](https://discord.gg/68sTKh3UYV) or **contact@iwezix.xyz**
 
+<!-- Social media -->
 <h3 textalign="left">Connect with me:</h3>
 <p textalign="left">
     <a href="https://codepen.io/iwezix" target="blank">
@@ -36,6 +46,7 @@
     </a>
 </p>
 
+<!-- Languages and Tools -->
 <h3 textalign="left">Languages and Tools:</h3>
 <p textalign="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -82,24 +93,18 @@
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-    </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-    </a>  
+    </a> 
 </p>
 
+<!-- GitHub Stats -->
 <div align="center">
-<p>
-    <img style="display: block; margin: 0 auto; margin-bottom: -20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IweZix" alt="iwezix" />
-</p>
-
-<p>
-    <img style="display: block; margin: 0 auto" src="https://github-readme-stats.vercel.app/api?username=IweZix" alt="iwezix" /></p>
-
-<p>
-    <img style="display: block; margin: 0 auto" src="https://github-readme-streak-stats.herokuapp.com/?user=IweZix&" alt="iwezix" />
-</p>
+    <p>
+        <img style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IweZix&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="iwezix" />
+    </p>
+    <p>
+        <img style="display: block; margin: 0 auto" src="https://github-readme-stats.vercel.app/api?username=IweZix&layout=compact&theme=dark&bg_color=0A0A0A" alt="iwezix" />
+    </p>
+    <p>
+        <img style="display: block; margin: 0 auto" src="https://github-readme-streak-stats.herokuapp.com/?user=IweZix&&layout=compact&theme=dark&bg_color=0A0A0A" alt="iwezix" />
+    </p>
 </div>
