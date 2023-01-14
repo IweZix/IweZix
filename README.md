@@ -92,9 +92,14 @@
 </p>
 
 <div align="center">
-<p><img style="display: block; margin: 0 auto; margin-bottom: -20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=IweZix&show_icons=true&locale=en&layout=compact" alt="iwezix" /></p>
+<p>
+    <img style="display: block; margin: 0 auto; margin-bottom: -20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=IweZix&show_icons=true&locale=en&layout=compact" alt="iwezix" />
+</p>
 
-<img style="display: block; margin: 0 auto" src="https://github-readme-stats.vercel.app/api?username=IweZix&show_icons=true&locale=en" alt="iwezix" />
+<p>
+    <img style="display: block; margin: 0 auto" src="https://github-readme-stats.vercel.app/api?username=IweZix&show_icons=true&locale=en" alt="iwezix" /></p>
 
-<p><img style="display: block; margin: 0 auto" src="https://github-readme-streak-stats.herokuapp.com/?user=IweZix&" alt="iwezix" /></p>
+<p>
+    <img style="display: block; margin: 0 auto" src="https://github-readme-streak-stats.herokuapp.com/?user=IweZix&" alt="iwezix" />
+</p>
 </div>
