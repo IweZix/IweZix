@@ -1,4 +1,6 @@
-<img align="center" style="display: block; margin: 0 auto"  src="https://cdn.discordapp.com/attachments/925311173723815998/1063902030277652520/standard-2.gif">
+<div align="center">
+    <img align="center" style="display: block; margin: 0 auto"   src="https://cdn.discordapp.com/attachments/925311173723815998/1063902030277652520/standard-2.gif">
+</div>
 <h1 align="center">Hi There, Welcome to my GitHub profile! </h1>
 <h3 align="center">I am IweZix, an IT student</h3>
 
