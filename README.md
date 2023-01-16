@@ -99,7 +99,7 @@
 <!-- GitHub Stats -->
 <div align="center">
     <p>
-        <img style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IweZix" alt="iwezix" />
+        <img style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IweZix&layout=compact&theme=dark&bg_color=0A0A0A" alt="iwezix" />
     </p>
     <p>
         <img style="display: block; margin: 0 auto" src="https://github-readme-stats.vercel.app/api?username=IweZix&layout=compact&theme=dark&bg_color=0A0A0A" alt="iwezix" />
