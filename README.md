@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [WezBot](https://github.com/IweZix/WezBot)
 
-- 🌱 I’m currently learning **SwiftUI, Python,...**
+- 🌱 I’m currently learning **C, Java, JS, Python...**
 
 - 👨‍💻 All of my publics projects are available [here](https://github.com/IweZix)
 
