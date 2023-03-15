@@ -11,11 +11,6 @@
     <img src="https://komarev.com/ghpvc/?username=iwezix&label=Profile%20views&color=0e75b6&style=flat" alt="iwezix" /> 
 </p>
 
-<!-- Youtube button -->
-<a href="https://www.youtube.com/c/iwezix?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCdICDxooRmBdQ_O0Od6WHLg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-</a> 
-
 - 🔭 I’m currently working on [WezBot](https://github.com/IweZix/WezBot)
 
 - 🌱 I’m currently learning **C, Java, JS, Python...**
@@ -102,7 +97,7 @@
         <img style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IweZix&layout=compact&theme=dark&bg_color=0A0A0A" alt="iwezix" />
     </p>
     <p>
-        <img style="display: block; margin: 0 auto" src="https://github-readme-stats.vercel.app/api?username=IweZix&layout=compact&theme=dark&bg_color=0A0A0A" alt="iwezix" />
+        <img style="display: block; margin: 0 auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwezix&layout=compact&theme=dark&bg_color=0A0A0A" alt="iwezix" />
     </p>
     <p>
         <img style="display: block; margin: 0 auto" src="https://github-readme-streak-stats.herokuapp.com/?user=IweZix&&layout=compact&theme=dark&bg_color=0A0A0A" alt="iwezix" />
