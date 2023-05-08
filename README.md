@@ -11,9 +11,9 @@
     <img src="https://komarev.com/ghpvc/?username=iwezix&label=Profile%20views&color=0e75b6&style=flat" alt="iwezix" /> 
 </p>
 
-- 🔭 I’m currently working on [WezBot](https://github.com/IweZix/WezBot)
+- 🔭 I’m currently working on my courses
 
-- 🌱 I’m currently learning **C, Java, JS, Python...**
+- 🌱 I’m currently learning **C, Java, JS, Flutter**
 
 - 👨‍💻 All of my publics projects are available [here](https://github.com/IweZix)
 
