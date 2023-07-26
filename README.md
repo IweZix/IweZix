@@ -9,6 +9,7 @@
 <!-- Profile views -->
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=iwezix&label=Profile%20views&color=0e75b6&style=flat" alt="iwezix" /> 
+    <img src="https://img.shields.io/github/followers/IweZix" alt="followers" />
 </p>
 
 - 🔭 I’m currently working on my courses
