@@ -45,7 +45,6 @@
 <!-- Languages and Tools -->
 <h3 textalign="left">Languages and Tools:</h3>
 <!-- Languages -->
-<h3 textalign="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,css,dart,flutter,html,java,js,mysql,mongo,py,sqlite,swift,ts" />
