@@ -27,7 +27,7 @@
 - 📫 How to reach me [discord](https://discord.gg/68sTKh3UYV) or **contact@iwezix.xyz**
 
 <!-- Social media -->
-<h3 textalign="left">Connect with me:</h3>
+<!-- <h3 textalign="left">Connect with me:</h3>
 <p textalign="left">
     <a href="https://codepen.io/iwezix" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iwezix" height="30" width="40" />
@@ -44,10 +44,13 @@
     <a href="https://discord.gg/68sTKh3UYV" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="68sTKh3UYV" height="30" width="40" />
     </a>
-</p>
+</p> -->
+
+<br>
+<br>
 
 <!-- Languages and Tools -->
-<h3 textalign="left">Languages and Tools:</h3>
+<h1 align="center">🔥 Languages - Framework - Tools 🔥</h1>
 <!-- Languages -->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -67,7 +70,11 @@
   </a>
 </p>
 
+<br>
+<br>
+
 <!-- GitHub Stats -->
+<h1 align="center">⚡️ Stats ⚡️</h1>
 <div align="center">
     <p>
         <img style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwezix&layout=compact&theme=tokyonight&bg_color=0A0A0A" alt="iwezix" />
@@ -79,3 +86,10 @@
         <img style="display: block; margin: 0 auto" src="https://github-readme-streak-stats.herokuapp.com/?user=IweZix&&layout=compact&theme=tokyonight&bg_color=0A0A0A" alt="iwezix" />
     </p>
 </div>
+
+<br>
+<br>
+
+<h1 align="center">🏆 Trophies 🏆</h1>
+
+![](https://github-profile-trophy.vercel.app/?username=IweZix&theme=discord&no-frame=false&no-bg=true&margin-w=4)
