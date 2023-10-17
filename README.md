@@ -10,7 +10,6 @@
 <h1 align="center">Welcome to my GitHub profile!</h1>
 <h3 align="center">I am IweZix (Luca), an IT student</h3>
 
-
 <!-- Profile views -->
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=iwezix&label=Profile%20views&color=0e75b6&style=flat" alt="iwezix" /> 
@@ -48,20 +47,19 @@
 </p> -->
 
 <br>
-<br>
 
 <!-- Languages and Tools -->
 <h1 align="center">🔥 Languages - Framework - Tools 🔥</h1>
 <!-- Languages -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,css,dart,flutter,html,java,js,mysql,mongo,py,sqlite,swift,ts" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,c,dart,flutter,py,mysql,mongo,sqlite,postgres" />
   </a>
 </p>
 <!-- Tools -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,codepen,discord,docker,github,gitlab,linux,nodejs" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,codepen,discord,docker,linux,nodejs" />
   </a>
 </p>
 <!-- Swoftwares -->
@@ -71,7 +69,6 @@
   </a>
 </p>
 
-<br>
 <br>
 
 <!-- GitHub Stats -->
@@ -88,7 +85,6 @@
     </p>
 </div>
 
-<br>
 <br>
 
 <h1 align="center">🏆 Trophies 🏆</h1>
