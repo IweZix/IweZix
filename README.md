@@ -65,7 +65,7 @@
 <!-- Swoftwares -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ae,ai,ps,pr,idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=figma,ae,ps,pr,idea,vscode" />
   </a>
 </p>
 
