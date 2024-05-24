@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on my courses
 
-- 🌱 I’m currently learning **C, Java, JS, Flutter**
+- 🌱 I’m currently learning **C, Java, JS**
 
 - 👨‍💻 All of my publics projects are available [here](https://github.com/IweZix)
 
