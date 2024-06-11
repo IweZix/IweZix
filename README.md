@@ -53,7 +53,7 @@
 <!-- Languages -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,c,dart,flutter,py,mysql,sqlite,postgres" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,c,dart,flutter,py,mysql,sqlite,postgres,vue" />
   </a>
 </p>
 <!-- Tools -->
