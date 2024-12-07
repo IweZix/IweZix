@@ -59,7 +59,7 @@
 <!-- Tools -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,docker,nodejs,vue,react,spring,flutter" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,docker,nodejs,vue,react,nest,spring,flutter" />
   </a>
 </p>
 <!-- Swoftwares -->
