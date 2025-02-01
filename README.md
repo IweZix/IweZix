@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on my courses
 
-- 🌱 I’m currently learning **React & .NET**
+- 🌱 I’m currently learning **React Native & .NET**
 
 - 👨‍💻 All of my publics projects are available [here](https://github.com/IweZix)
 
