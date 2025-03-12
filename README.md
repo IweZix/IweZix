@@ -53,19 +53,13 @@
 <!-- Languages -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,c,cs,dart,mysql,sqlite,postgres,mongo" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,c,cs,postgres,mongo" />
   </a>
 </p>
 <!-- Tools -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,docker,ansible,nodejs,vue,react,nest,spring,flutter" />
-  </a>
-</p>
-<!-- Swoftwares -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,figma,ae,ps,pr,idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,docker,ansible,nodejs,vue,react,next,nest,spring,flutter" />
   </a>
 </p>
 
