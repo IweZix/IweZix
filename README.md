@@ -59,7 +59,7 @@
 <!-- Tools -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,docker,ansible,nodejs,vue,react,next,nest,spring,flutter" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,docker,ansible,nodejs,vue,react,next,nest,spring,reactnative,dotnet" />
   </a>
 </p>
 
