@@ -8,7 +8,7 @@
 </h3>
 
 <h1 align="center">Welcome to my GitHub profile !</h1>
-<h3 align="center">I am IweZix (Luca), an IT student</h3>
+<h3 align="center">I am Luca, a Fullstack developer</h3>
 
 <!-- Profile views -->
 <p align="left"> 
@@ -16,13 +16,13 @@
     <img src="https://img.shields.io/github/followers/IweZix" alt="followers" />
 </p>
 
-- 🔭 I’m currently working on my courses
+- 🔭 I’m currently working on my own project
 
 - 🌱 I’m currently learning **React Native & .NET**
 
 - 👨‍💻 All of my publics projects are available [here](https://github.com/IweZix)
 
-- 💬 Ask me about **discord.js**
+- 💬 Ask me about **nest.js**
 
 - 📫 How to reach me [discord](https://discord.gg/68sTKh3UYV) or **contact@iwezix.xyz**
 
