@@ -80,7 +80,3 @@
 </div>
 
 <br>
-
-<h1 align="center">🏆 Trophies 🏆</h1>
-
-![](https://github-profile-trophy.vercel.app/?username=IweZix&theme=discord&no-frame=false&no-bg=true&margin-w=4)
