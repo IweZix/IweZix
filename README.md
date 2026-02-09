@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **React Native & .NET**
 
-- 👨‍💻 All of my publics projects are available [here]([https://github.com/IweZix](https://github.com/IweZix?tab=repositories&q=&type=public&language=&sort=))
+- 👨‍💻 All of my publics projects are available [here]([https://github.com/IweZix](https://github.com/IweZix?tab=repositories&q=&type=public&language=&sort=)
 
 - 💬 Ask me about **nest.js**
 
